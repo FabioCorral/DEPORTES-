@@ -20,10 +20,11 @@ header .logo {
 }
 
 nav ul {
-    list-style: none;
+        list-style: none;
+    display: flex;
+    justify-content: center;
     margin: 0;
     padding: 0;
-    display: flex;
 }
 
 nav ul li {
