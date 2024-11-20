@@ -20,7 +20,7 @@ header .logo {
 }
 
 nav ul {
-        list-style: none;
+    list-style: circle;
     display: flex;
     justify-content: center;
     margin: 0;
