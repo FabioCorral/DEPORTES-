@@ -20,7 +20,7 @@ header .logo {
 }
 
 nav ul {
-    list-style: circle;
+    list-style: none;
     display: flex;
     justify-content: center;
     margin: 0;
@@ -33,6 +33,7 @@ nav ul li {
 
 nav ul li a {
     color: white;
+    justify-content: center;
     text-decoration: none;
 }
 
