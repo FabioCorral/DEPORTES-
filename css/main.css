@@ -1,7 +1,7 @@
 
 body { margin: 0cm;
     padding: 0cm;
-    background: linear-gradient(to bottom, lightgray, lightblue);
+    background-image: linear-gradient(to bottom, lightgray, lightblue);
     font-family: Arial, sans-serif;}
 
 header {
