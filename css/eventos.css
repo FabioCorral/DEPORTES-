@@ -10,13 +10,6 @@ header {
     background: #007bff;
     color: white;
     padding: 20px;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-}
-
-header .logo {
-    height: 50px;
 }
 
 nav ul {
@@ -35,6 +28,7 @@ nav ul li a {
     color: white;
     text-decoration: none;
 }
+
 main {
     padding: 20px;
     text-align: center;
