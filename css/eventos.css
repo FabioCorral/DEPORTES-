@@ -22,6 +22,7 @@ header .logo {
 nav ul {
     list-style: none;
     display: flex;
+    justify-content: center;
     margin: 0;
     padding: 0;
 }
@@ -34,7 +35,6 @@ nav ul li a {
     color: white;
     text-decoration: none;
 }
-
 main {
     padding: 20px;
     text-align: center;
