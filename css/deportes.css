@@ -56,10 +56,9 @@ main {
     border-radius: 5px;
 }
 
-footer {
-    margin-top: auto;
+footer {;
     background: #333;
     color: white;
     text-align: center;
-    padding: 40px;
+    padding: 400px;
 }
