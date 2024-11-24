@@ -70,3 +70,7 @@ button {
 button:hover {
     background: #0056b3;
 }
+.logo{
+    width: 70px;
+    align: center;
+}
