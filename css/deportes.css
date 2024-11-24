@@ -57,6 +57,7 @@ main {
 }
 
 footer {
+    margin-top: auto;
     background: #333;
     color: white;
     text-align: center;
