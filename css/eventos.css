@@ -8,7 +8,10 @@ header {
     color: white;
     padding: 20px;
 }
-
+.logo{
+    width: 70px;
+    align: center;
+}
 nav ul {
     list-style: none;
     display: flex;
@@ -46,10 +49,7 @@ main {
     width: 45%;
     text-align: left;
 }
-.logo{
-    width: 70px;
-    align: center;
-}
+
 .evento img {
     max-width: 100%;
     border-radius: 10px;
