@@ -46,10 +46,12 @@ main {
 
 footer {
     background: #333;
-    color: #007bff;
-        padding: 180px 200px;
+    color: white;
     text-align: center;
+    padding: 400px;
+     height: 200px;
 }
+
 .logo{
     width: 70px;
     align: center;
