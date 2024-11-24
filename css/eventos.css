@@ -59,3 +59,9 @@ main {
     color: #007bff;
     margin: 10px 0;
 }
+footer {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 180px 200px;
+}
